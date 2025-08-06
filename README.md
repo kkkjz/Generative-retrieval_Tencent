@@ -1,0 +1,2 @@
+# Generative-retrieval_Tencent
+搭建的一键运行的生成式检索框架 用于多视角的生成式检索
